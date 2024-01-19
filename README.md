@@ -10,3 +10,5 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
+![HELLO](https://img.shields.io/badge/Hello-World-213213)
+
