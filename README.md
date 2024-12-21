@@ -7,3 +7,4 @@
 * 🔎You can find me at [Linkedin](https://www.linkedin.com/in/sergiodominguezperez/)
 * 🐈Cat owner as well ᓚᘏᗢ
 
+###### *I work with Bitbucket too, so my activity can change depends in what im working on ;)*
