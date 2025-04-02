@@ -1,6 +1,6 @@
 ## Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/SergioLKG/)
-[![GitHub Follow](https://img.shields.io/github/followers/SergioLKG?label=Follow&style=social)](https://github.com/SergioLKG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&)](https://www.linkedin.com/in/SergioLKG/)
+[![GitHub Follow](https://img.shields.io/github/followers/SergioLKG?style=social)](https://github.com/SergioLKG)
 
 ### I'm Sergio Domínguez Pérez from Spain and you can snoop around here personal projects and more. 
 
