@@ -11,9 +11,9 @@
 
 ###### *I work with Bitbucket too, so my activity can change depends in what im working on ;) (Migrating to github soon check my enterprise acc below ⬇️)*
 
-![Summary Lenguages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergioLKG&theme=transparent)
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioLKG&theme=transparent)
+[![Summary Lenguages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergioLKG&theme=transparent)](https://github.com/SergioLKG)
+[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioLKG&theme=transparent)](https://github.com/SergioLKG)
 
 ### 🏢Enterprise account ([Lefebvre](https://github.com/Lf-SergioDominguez))
 
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lf-SergioDominguez&theme=transparent)
+[![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lf-SergioDominguez&theme=transparent)](https://github.com/Lf-SergioDominguez)
